@@ -1,7 +1,7 @@
 package Semana1;
 
 public class Bicicleta {
-    //Generando las variables (caracteristicas)
+    //Generando las variables (caracteristicas) o propiedades de objeto
     public int pins, rodada;
     public double velocidad;
     public String color;
