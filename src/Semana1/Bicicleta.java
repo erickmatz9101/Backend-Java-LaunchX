@@ -56,7 +56,7 @@ public class Bicicleta {
 }
 
 
-/*La finalidad de poder colocar los métodos get y set de esta manera es por una guena estrucvtura del codigo.
+/*La finalidad de poder colocar los métodos get y set de esta manera es por una buena estructura del codigo.
 * En caso de los GET lo que se puede observar es que se muestra una estructura mas limpia del codigo al estar declarado en una sola linea
 * Por otra parte con los metodos SET (los que nos permiten modificar los datos) estamos tomando en cuenta que es un dato de entrada que el usuario
 * hara por lo cual al mismo tiempo se esta validando que el dato de entrada (por el usuario) sea del tipo que se le solicita por ejemoplo
