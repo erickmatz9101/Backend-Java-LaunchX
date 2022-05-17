@@ -44,10 +44,10 @@ class HilosR implements Runnable{
     public static void main(String[] args) {
         HilosR h = new HilosR();
         Thread t = new Thread();
-        t.start();¿
+        t.start();
     }
 }
 
 
-/*Al igual que todos los metodos denteo de run se definen los comportamientos de lo que quiero que haga mi metodo
+/*Al igual que todos los metodos dentro de run se definen los comportamientos de lo que quiero que haga mi metodo
 * y como se explico cada hilo puede estar dividido en diversas tareas y ejecutandose de manera simuktanea*/
